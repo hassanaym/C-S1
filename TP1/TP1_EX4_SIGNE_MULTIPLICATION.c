@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<stdlib.h>
 
 
 int main(){
@@ -15,5 +15,5 @@ int main(){
     }else {
         printf("Le produit est negatif");
     }
-
+    system("pause");
 }
